@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"os"
+	"github.com/devharnold/infra-doctor/internal/k8s"
 
 	"github.com/spf13/cobra"
 )

@@ -1,6 +1,5 @@
-package infradoctor
-
-import "infra-doctor/cmd"
+package main
+import "github.com/devharnold/infra-doctor/cmd"
 
 func main() {
 	cmd.Execute()

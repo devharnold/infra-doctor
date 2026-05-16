@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"infra-doctor/internal/api"
+	"github.com/devharnold/infra-doctor/internal/api"
 
 	"github.com/spf13/cobra"
 )
